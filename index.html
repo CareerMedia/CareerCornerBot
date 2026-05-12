@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Career Corner videos (JSON)</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #f6f8fa;
+        --fg: #24292f;
+        --border: #d0d7de;
+        --muted: #57606a;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #0d1117;
+          --fg: #e6edf3;
+          --border: #30363d;
+          --muted: #8b949e;
+        }
+      }
+      body {
+        margin: 0;
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto,
+          Helvetica, Arial, sans-serif;
+        background: var(--bg);
+        color: var(--fg);
+        line-height: 1.5;
+      }
+      header {
+        padding: 1rem 1.25rem;
+        border-bottom: 1px solid var(--border);
+        background: color-mix(in srgb, var(--bg) 85%, transparent);
+        backdrop-filter: blur(8px);
+      }
+      h1 {
+        margin: 0;
+        font-size: 1.125rem;
+        font-weight: 600;
+      }
+      p {
+        margin: 0.35rem 0 0;
+        font-size: 0.875rem;
+        color: var(--muted);
+      }
+      main {
+        padding: 1rem 1.25rem 2rem;
+        max-width: 120ch;
+        margin: 0 auto;
+      }
+      pre {
+        margin: 0;
+        padding: 1rem;
+        overflow: auto;
+        font-size: 0.8125rem;
+        line-height: 1.45;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+        white-space: pre;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        background: color-mix(in srgb, var(--bg) 92%, var(--fg));
+      }
+      .status {
+        margin-bottom: 0.75rem;
+        font-size: 0.875rem;
+        color: var(--muted);
+      }
+      .status.error {
+        color: #cf222e;
+      }
+      @media (prefers-color-scheme: dark) {
+        .status.error {
+          color: #f85149;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>career_corner_videos.json</h1>
+      <p>
+        Pretty-printed JSON from this repository. Raw file:
+        <a id="raw-link" href="career_corner_videos.json">career_corner_videos.json</a>
+      </p>
+    </header>
+    <main>
+      <div id="status" class="status">Loading…</div>
+      <pre id="out" hidden></pre>
+    </main>
+    <script>
+      (function () {
+        var statusEl = document.getElementById("status");
+        var outEl = document.getElementById("out");
+        var rawLink = document.getElementById("raw-link");
+
+        rawLink.href =
+          new URL("career_corner_videos.json", window.location.href).href;
+
+        fetch("career_corner_videos.json", { cache: "no-store" })
+          .then(function (res) {
+            if (!res.ok) {
+              throw new Error("HTTP " + res.status);
+            }
+            return res.text();
+          })
+          .then(function (text) {
+            var data = JSON.parse(text);
+            outEl.textContent = JSON.stringify(data, null, 2);
+            outEl.hidden = false;
+            statusEl.textContent = "Loaded.";
+            statusEl.classList.remove("error");
+          })
+          .catch(function (err) {
+            statusEl.textContent =
+              "Could not load career_corner_videos.json: " + (err && err.message ? err.message : String(err));
+            statusEl.classList.add("error");
+          });
+      })();
+    </script>
+  </body>
+</html>

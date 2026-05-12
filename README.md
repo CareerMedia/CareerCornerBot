@@ -164,6 +164,36 @@ CAREER_CORNER_PLAYLIST_ID
 
 `CAREER_CORNER_PLAYLIST_ID` can be blank if you want it to scan all playlists.
 
+## GitHub Pages (view JSON in the browser)
+
+This repo includes a small static site at the repository root:
+
+```text
+index.html
+```
+
+It loads `career_corner_videos.json` from the same branch and shows the formatted JSON string on the page. The raw JSON remains available at its own URL for bots and tools.
+
+To publish it with [GitHub Pages](https://docs.github.com/en/pages):
+
+1. In the repository on GitHub, open **Settings** → **Pages**.
+2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
+3. Choose your default branch (for example **main**) and folder **/** (root), then save.
+
+After the first deployment, the viewer is available at:
+
+```text
+https://<your-username>.github.io/<repository-name>/
+```
+
+The raw feed URL is:
+
+```text
+https://<your-username>.github.io/<repository-name>/career_corner_videos.json
+```
+
+The empty `.nojekyll` file disables Jekyll so all static assets (including the JSON file) are served as-is.
+
 ## How your bot can use it
 
 Your bot should ingest this file:
