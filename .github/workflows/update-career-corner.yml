@@ -6,15 +6,23 @@ on:
     - cron: "0 12 * * 1"
   workflow_dispatch:
 
+# Use Node 24 for composite JavaScript actions (see GitHub Actions runner changelog).
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   export:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+          token: ${{ github.token }}
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: "pip"
@@ -38,5 +46,5 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: refresh career_corner_videos.json"
-            git push
+            git push origin "${{ github.ref_name }}"
           fi
