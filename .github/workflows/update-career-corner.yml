@@ -68,15 +68,20 @@ jobs:
           fi
           echo "career_corner_videos.json size: $(wc -c < career_corner_videos.json) bytes"
 
-      - name: Upload JSON as artifact
+      - name: Generate Markdown mirror
+        run: python -u generate_markdown.py
+
+      - name: Upload data as artifact
         uses: actions/upload-artifact@v6
         with:
           name: career_corner_videos
-          path: career_corner_videos.json
+          path: |
+            career_corner_videos.json
+            career_corner_videos.md
           if-no-files-found: error
           retention-days: 30
 
-      - name: Commit and push updated JSON
+      - name: Commit and push updated data
         id: commit
         continue-on-error: true
         run: |
@@ -84,24 +89,24 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add career_corner_videos.json
+          git add career_corner_videos.json career_corner_videos.md
 
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "chore: refresh career_corner_videos.json"
+          git commit -m "chore: refresh career_corner_videos data"
 
           # Rebase on top of any new commits to avoid non-fast-forward push failures.
           git pull --rebase origin "${{ github.ref_name }}" || true
 
           if ! git push origin "HEAD:${{ github.ref_name }}"; then
-            echo "::warning::Direct push failed (likely branch protection). The JSON is still available as the 'career_corner_videos' artifact on this run."
+            echo "::warning::Direct push failed (likely branch protection). The JSON and Markdown are still available as the 'career_corner_videos' artifact on this run."
             exit 1
           fi
 
       - name: Note if push failed
         if: steps.commit.outcome == 'failure'
         run: |
-          echo "Push step failed but the JSON artifact is uploaded. Download it from the Actions run summary."
+          echo "Push step failed but the JSON and Markdown artifacts are uploaded. Download them from the Actions run summary."
