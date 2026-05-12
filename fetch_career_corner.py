@@ -1,6 +1,8 @@
 import json
 import os
+import sys
 import time
+import traceback
 from typing import Dict, List
 
 from dotenv import load_dotenv
@@ -247,11 +249,37 @@ def dedupe_videos(videos: List[Dict]) -> List[Dict]:
     return list(video_map.values())
 
 
-def build_career_corner_dataset():
+def _mask(value: str) -> str:
+    if not value:
+        return "(empty)"
+    if len(value) <= 6:
+        return "*" * len(value)
+    return f"{value[:3]}...{value[-3:]} (len={len(value)})"
+
+
+def validate_config():
+    print("Config check:")
+    print(f"  YOUTUBE_API_KEY: {_mask(YOUTUBE_API_KEY or '')}")
+    print(f"  YOUTUBE_CHANNEL_ID: {YOUTUBE_CHANNEL_ID or '(empty)'}")
+    print(
+        f"  CAREER_CORNER_PLAYLIST_ID: {CAREER_CORNER_PLAYLIST_ID or '(empty, will scan all playlists)'}"
+    )
+
+    if not YOUTUBE_API_KEY:
+        raise ValueError(
+            "Missing YOUTUBE_API_KEY. Set it as a GitHub Actions secret named "
+            "YOUTUBE_API_KEY (or in a local .env file)."
+        )
+
     if not YOUTUBE_CHANNEL_ID and not CAREER_CORNER_PLAYLIST_ID:
         raise ValueError(
-            "Add YOUTUBE_CHANNEL_ID or CAREER_CORNER_PLAYLIST_ID to your .env file."
+            "Missing both YOUTUBE_CHANNEL_ID and CAREER_CORNER_PLAYLIST_ID. "
+            "Set at least one as a GitHub Actions secret."
         )
+
+
+def build_career_corner_dataset():
+    validate_config()
 
     youtube = get_youtube_client()
 
@@ -358,6 +386,10 @@ if __name__ == "__main__":
     try:
         build_career_corner_dataset()
     except HttpError as error:
-        print(f"YouTube API error: {error}")
+        print(f"YouTube API error: {error}", file=sys.stderr)
+        traceback.print_exc()
+        sys.exit(1)
     except Exception as error:
-        print(f"Error: {error}")
+        print(f"Error: {error}", file=sys.stderr)
+        traceback.print_exc()
+        sys.exit(1)

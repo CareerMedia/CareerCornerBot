@@ -32,12 +32,32 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Validate required secrets are present
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          CAREER_CORNER_PLAYLIST_ID: ${{ secrets.CAREER_CORNER_PLAYLIST_ID }}
+        run: |
+          missing=0
+          if [ -z "${YOUTUBE_API_KEY}" ]; then
+            echo "::error::Repository secret YOUTUBE_API_KEY is empty or not set."
+            missing=1
+          fi
+          if [ -z "${YOUTUBE_CHANNEL_ID}" ] && [ -z "${CAREER_CORNER_PLAYLIST_ID}" ]; then
+            echo "::error::Set either YOUTUBE_CHANNEL_ID or CAREER_CORNER_PLAYLIST_ID as a repository secret."
+            missing=1
+          fi
+          echo "YOUTUBE_API_KEY set: $([ -n "${YOUTUBE_API_KEY}" ] && echo yes || echo no)"
+          echo "YOUTUBE_CHANNEL_ID set: $([ -n "${YOUTUBE_CHANNEL_ID}" ] && echo yes || echo no)"
+          echo "CAREER_CORNER_PLAYLIST_ID set: $([ -n "${CAREER_CORNER_PLAYLIST_ID}" ] && echo yes || echo no)"
+          exit $missing
+
       - name: Fetch Career Corner videos
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
           CAREER_CORNER_PLAYLIST_ID: ${{ secrets.CAREER_CORNER_PLAYLIST_ID }}
-        run: python fetch_career_corner.py
+        run: python -u fetch_career_corner.py
 
       - name: Verify JSON was produced
         run: |
