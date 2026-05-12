@@ -1,0 +1,184 @@
+{
+  "source": "YouTube",
+  "filter": {
+    "title_contains": "Career Corner"
+  },
+  "total_videos": 7,
+  "videos": [
+    {
+      "video_id": "XPh7g8epxZI",
+      "title": "Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner",
+      "description": "Think working in education means becoming a teacher? Think again.\n\nIn this episode of Career Corner, we sit down with Autumn Catherine (Recruitment Assistant) and Matthew Watson (Executive Director of Development) from iLEAD California to break down the many career paths available in education, and how you can get started.\n\nFrom marketing and HR to outreach, operations, and leadership, this episode reveals how schools are powered by entire teams working behind the scenes to support students and communities.\n\nIn this episode, you’ll learn:\nWhy education careers go far beyond the classroom\nHow to break into roles like recruitment, HR, marketing, and development\nThe skills employers actually look for: communication, empathy, and leadership\nHow to stand out at career fairs and networking events\nWhy volunteering and real-world experience matter more than you think\nHow to turn your college experience into career-ready skills\nWhat recruiters are really looking for when hiring\n\nYou’ll also hear real stories, from navigating college as a student-athlete to building a career in leadership and development, and learn how passion, persistence, and putting yourself out there can open doors you didn’t even know existed.\n\nIf you’re interested in education, nonprofit work, leadership, or making a real impact in your community, this episode will show you how to find your place, and start building your career today.\n\nListen now and discover how you can make a difference beyond the classroom.",
+      "video_url": "https://www.youtube.com/watch?v=XPh7g8epxZI",
+      "thumbnail_url": "https://i.ytimg.com/vi/XPh7g8epxZI/maxresdefault.jpg",
+      "published_at": "2026-05-06T00:23:59Z",
+      "duration": "PT37M18S",
+      "channel_title": "CSUN CAREER CENTER",
+      "privacy_status": "public",
+      "playlists": [
+        {
+          "playlist_id": "PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj",
+          "playlist_title": "Career Corner | Season One"
+        }
+      ],
+      "filter_match": "Career Corner",
+      "transcript_available": false,
+      "transcript_type": null,
+      "transcript_language": null,
+      "transcript_language_code": null,
+      "transcript": "",
+      "transcript_segments": [],
+      "transcript_error": "Unexpected transcript error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=XPh7g8epxZI! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+    },
+    {
+      "video_id": "qBfV9v5vosA",
+      "title": "How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner",
+      "description": "Want to work in the music industry, but have no idea where to start?\n\nIn this episode of Career Corner, we sit down with MJ, Regional Director of Urban Audience at Republic Collective (Def Jam, Republic Records, Island Records), to break down how he went from college internships to working with some of the biggest artists in the world.\n\nFrom walking into a radio station asking for an internship… to working in the mailroom… to building relationships that led to Def Jam, MJ’s journey proves there’s no single path into the industry, but there is a way in if you’re willing to take it.\n\nIn this episode, you’ll learn:\nHow to break into the music industry with no connections\nWhy starting small can lead to major opportunities\nThe real way networking works (and why most people do it wrong)\nHow to stand out in internships and get remembered\nWhy “being memorable” is your biggest advantage\nWhat roles exist in music: promotion, marketing, radio, live events, and more\nHow to pitch yourself creatively (and why resumes aren’t enough)\nThe key mindset: under-promise, over-deliver\n\nMJ also breaks down what he actually does day-to-day, working with radio stations, setting up interviews, building campaigns, and connecting artists with fans across the country.\n\nIf you’re passionate about music, entertainment, or working at a record label, this episode gives you a real, behind-the-scenes blueprint for getting your foot in the door, and turning it into a career.\n\nListen now and start building your path into the music industry.",
+      "video_url": "https://www.youtube.com/watch?v=qBfV9v5vosA",
+      "thumbnail_url": "https://i.ytimg.com/vi/qBfV9v5vosA/maxresdefault.jpg",
+      "published_at": "2026-03-24T16:32:02Z",
+      "duration": "PT40M24S",
+      "channel_title": "CSUN CAREER CENTER",
+      "privacy_status": "public",
+      "playlists": [
+        {
+          "playlist_id": "PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj",
+          "playlist_title": "Career Corner | Season One"
+        }
+      ],
+      "filter_match": "Career Corner",
+      "transcript_available": false,
+      "transcript_type": null,
+      "transcript_language": null,
+      "transcript_language_code": null,
+      "transcript": "",
+      "transcript_segments": [],
+      "transcript_error": "Unexpected transcript error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=qBfV9v5vosA! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+    },
+    {
+      "video_id": "1LrQg1hvuvc",
+      "title": "How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner",
+      "description": "Thinking about a career in HR, recruiting, or talent acquisition? Curious what it’s really like to hire for a college or public institution?\n\nIn this episode of Career Corner, host Maddie sits down with Courtney Cordova, Talent Acquisition Manager at College of the Canyons and former U.S. Navy recruiter. Courtney shares her powerful journey—from dropping out of college at 20, to serving 12.5 years in the Navy, to becoming the only Talent Acquisition Manager in the California Community College system.\nThis conversation is packed with real advice for students navigating career uncertainty, job searching, and networking.\n\nIn this episode, you’ll learn:\n • What talent acquisition actually is (and how it differs from traditional HR)\n • How to break into recruiting, HR, or higher education careers\n • Why most people get jobs through networking—not just applying\n • How to confidently message professionals on LinkedIn\n • What recruiters really look for in interviews\n • How to negotiate your first job offer (yes, you can!)\n • Why persistence matters “99 no’s and 1 yes” might be your breakthrough\n • How integrity, follow-through, and curiosity can set you apart\n\nCourtney also shares how serving in the Navy shaped her leadership, resilience, and recruiting mindset and why experiences outside your comfort zone often lead to the most unexpected opportunities.\n\nIf you’re interested in HR, recruiting, public service, or working in higher education, this episode gives you a behind-the-scenes look at how hiring really works and how to position yourself to stand out.\n\n🎧 Listen now and take the next step toward a career that fits you.",
+      "video_url": "https://www.youtube.com/watch?v=1LrQg1hvuvc",
+      "thumbnail_url": "https://i.ytimg.com/vi/1LrQg1hvuvc/maxresdefault.jpg",
+      "published_at": "2026-02-17T02:34:46Z",
+      "duration": "PT44M39S",
+      "channel_title": "CSUN CAREER CENTER",
+      "privacy_status": "public",
+      "playlists": [
+        {
+          "playlist_id": "PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj",
+          "playlist_title": "Career Corner | Season One"
+        }
+      ],
+      "filter_match": "Career Corner",
+      "transcript_available": false,
+      "transcript_type": null,
+      "transcript_language": null,
+      "transcript_language_code": null,
+      "transcript": "",
+      "transcript_segments": [],
+      "transcript_error": "Unexpected transcript error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=1LrQg1hvuvc! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+    },
+    {
+      "video_id": "Ldfwza6RMms",
+      "title": "How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner",
+      "description": "If you’ve ever dreamed of working in entertainment, radio, music marketing, or media, this episode is your backstage pass into how the industry really works.\n\nIn this Industry Professional Series episode, host Maddie sits down with Hilary Gordon, Director of Marketing, Promotion & Engagement at 88.5 The SoCal Sound, voted America’s Best Public Music Radio Station two years in a row. With over 25 years in radio and experience at companies like Warner Music Group and Cumulus Media, Hilary has built a career connecting artists and audiences through creativity, strategy, and sound.\n\nHilary shares her journey from being a music-obsessed kid calling radio stations, to becoming an on-air talent, programmer, and ultimately a marketing leader shaping the future of public radio. You’ll hear how she navigated unpaid internships, learned every job inside the station, and built a career rooted in passion and community.\n\nIn this episode, you’ll learn:\n• How to get your first job or internship in entertainment, radio, or music marketing\n• Why being reliable, proactive, and passionate matters more than any formal experience\n• How radio survived the rise of streaming — and what that means for your career in media today\n• What roles exist in radio & entertainment: programming, on-air, marketing, promotions, production, sales & more.\n• How to make yourself invaluable at any station or media company\n• The power of community, storytelling, and adaptability in a fast-changing industry\n• How digital media, social platforms, and even AI are reshaping entertainment careers\n\nHilary also shares her full-circle moments — including interviewing her musical heroes — and offers concrete advice for students ready to dive into the world of music, media, or broadcasting\n\nIf you're passionate about music, storytelling, radio, or marketing, this episode shows you exactly how to turn that passion into a career.\n\nListen now and take your first step into the entertainment & media industry.",
+      "video_url": "https://www.youtube.com/watch?v=Ldfwza6RMms",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ldfwza6RMms/maxresdefault.jpg",
+      "published_at": "2025-12-17T22:49:45Z",
+      "duration": "PT30M",
+      "channel_title": "CSUN CAREER CENTER",
+      "privacy_status": "public",
+      "playlists": [
+        {
+          "playlist_id": "PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj",
+          "playlist_title": "Career Corner | Season One"
+        }
+      ],
+      "filter_match": "Career Corner",
+      "transcript_available": false,
+      "transcript_type": null,
+      "transcript_language": null,
+      "transcript_language_code": null,
+      "transcript": "",
+      "transcript_segments": [],
+      "transcript_error": "Unexpected transcript error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Ldfwza6RMms! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+    },
+    {
+      "video_id": "4sM3mQExWVI",
+      "title": "How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner",
+      "description": "Want to break into marketing, advertising, or new business development, but don’t know where to start? This episode gives you the roadmap.\nIn our first Industry Professional Series spotlight, host Maddie sits down with Reonna Johnson, Marketing & Business Development Director, agency leader, community-builder, and co-founder of multiple initiatives reshaping the creative world.\n\nReonna shares her real, unfiltered journey from not even knowing what marketing was in college to leading major growth initiatives across top advertising agencies. She breaks down the exact skills, mindset, and strategies students need to enter the industry confidently.\n\nIn this episode, you’ll learn:\n* How to get your first job in marketing or advertising (even if you feel behind) \n* The 70/30 rule that fast-tracked Rhianna’s career into leadership roles \n* What agencies REALLY look for in entry-level candidates\n* How to figure out which agency department fits YOU. Creative, strategy, account, production, or business development \n* Why your “no job too big, no job too small” attitude matters more than you think\n* How to build community, confidence, and impact at the start of your career\n\nReonna also shares inspiring stories about launching community-centered fitness spaces, building networks for Black creative professionals, and using your career to create real impact.\nIf you’re dreaming about a future in marketing, advertising, or creative industries, this episode is your blueprint to getting started—and getting hired.\n\nListen now and start building your future in marketing & advertising.",
+      "video_url": "https://www.youtube.com/watch?v=4sM3mQExWVI",
+      "thumbnail_url": "https://i.ytimg.com/vi/4sM3mQExWVI/maxresdefault.jpg",
+      "published_at": "2025-11-20T19:22:41Z",
+      "duration": "PT38M55S",
+      "channel_title": "CSUN CAREER CENTER",
+      "privacy_status": "public",
+      "playlists": [
+        {
+          "playlist_id": "PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj",
+          "playlist_title": "Career Corner | Season One"
+        }
+      ],
+      "filter_match": "Career Corner",
+      "transcript_available": false,
+      "transcript_type": null,
+      "transcript_language": null,
+      "transcript_language_code": null,
+      "transcript": "",
+      "transcript_segments": [],
+      "transcript_error": "Unexpected transcript error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=4sM3mQExWVI! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+    },
+    {
+      "video_id": "dDO3m2CeMgo",
+      "title": "How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner",
+      "description": "In this episode, host Maddie sits down with Cristina Bernstein, Career & Professional Development Associate at CSUN, to spotlight one of the most powerful resources available to Matadors: Ask a Matador.\n\nLearn how this platform connects CSUN students and alumni for career advice, mentorship, and networking—no cold emails or awkward introductions required. Christina breaks down how to use Ask a Matador, shares real success stories, and explains how Black Matadors Connect provides representation and mentorship opportunities for Black-identifying students and alumni.\n\nYou’ll discover:\n• How to connect directly with CSUN alumni in your dream field\n• What kinds of questions to ask to get meaningful responses\n• How networking can open doors to internships, jobs, and mentorship\n• Why representation and community matter in your career journey\n\nWhether you’re a new student, a transfer, or just ready to take your next career step, this episode will show you how to leverage the Matador network to build your future.\n\nListen now and start making connections that matter.",
+      "video_url": "https://www.youtube.com/watch?v=dDO3m2CeMgo",
+      "thumbnail_url": "https://i.ytimg.com/vi/dDO3m2CeMgo/maxresdefault.jpg",
+      "published_at": "2025-10-15T17:00:58Z",
+      "duration": "PT23M59S",
+      "channel_title": "CSUN CAREER CENTER",
+      "privacy_status": "public",
+      "playlists": [
+        {
+          "playlist_id": "PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj",
+          "playlist_title": "Career Corner | Season One"
+        }
+      ],
+      "filter_match": "Career Corner",
+      "transcript_available": false,
+      "transcript_type": null,
+      "transcript_language": null,
+      "transcript_language_code": null,
+      "transcript": "",
+      "transcript_segments": [],
+      "transcript_error": "Unexpected transcript error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=dDO3m2CeMgo! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+    },
+    {
+      "video_id": "JOpIcmmkO-o",
+      "title": "The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner",
+      "description": "In this episode of Career Corner, host Maddie sits down with Professor Randi Picarelli to explore one of the most important topics for college students and young professionals: networking and internships.\n\nFrom building authentic connections to creating opportunities through internships, Prof. Picarelli shares her career journey, teaching philosophy, and practical strategies to help students take charge of their professional growth.\n\nYou’ll learn:\n • Why networking is more than just “who you know”\n • How to confidently reach out to professionals—even when it feels intimidating\n • The role of internships in building real-world skills and career pathways\n • Key questions every student should ask in an internship or job interview\n\n\nWhether you’re just starting your college journey, preparing to graduate, or feeling stuck in your career path, this conversation is packed with advice to help you build confidence, expand your network, and take your next step forward.\nTune in now and start building the future you want!",
+      "video_url": "https://www.youtube.com/watch?v=JOpIcmmkO-o",
+      "thumbnail_url": "https://i.ytimg.com/vi/JOpIcmmkO-o/maxresdefault.jpg",
+      "published_at": "2025-09-05T17:31:47Z",
+      "duration": "PT35M14S",
+      "channel_title": "CSUN CAREER CENTER",
+      "privacy_status": "public",
+      "playlists": [
+        {
+          "playlist_id": "PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj",
+          "playlist_title": "Career Corner | Season One"
+        }
+      ],
+      "filter_match": "Career Corner",
+      "transcript_available": false,
+      "transcript_type": null,
+      "transcript_language": null,
+      "transcript_language_code": null,
+      "transcript": "",
+      "transcript_segments": [],
+      "transcript_error": "Unexpected transcript error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=JOpIcmmkO-o! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+    }
+  ]
+}
