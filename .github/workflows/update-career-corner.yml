@@ -12,6 +12,7 @@ env:
 jobs:
   export:
     runs-on: ubuntu-latest
+    environment: CareerCornerBot
     permissions:
       contents: write
     steps:
