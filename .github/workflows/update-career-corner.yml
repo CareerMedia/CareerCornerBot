@@ -69,7 +69,7 @@ jobs:
           echo "career_corner_videos.json size: $(wc -c < career_corner_videos.json) bytes"
 
       - name: Upload JSON as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: career_corner_videos
           path: career_corner_videos.json
