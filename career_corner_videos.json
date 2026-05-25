@@ -3,8 +3,33 @@
   "filter": {
     "title_contains": "Career Corner"
   },
-  "total_videos": 7,
+  "total_videos": 8,
   "videos": [
+    {
+      "video_id": "1mClq8Mkpk4",
+      "title": "How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner",
+      "description": "Want to work in government, politics, public service, or law—but don’t know where to start?\nIn this episode of Career Corner, we sit down with Justin Vines, a CSUN alum currently working as a federal caseworker for a member of Congress, to break down how involvement, networking, leadership, and patience helped shape his career journey.\n\nFrom serving in Associated Students and founding clubs on campus to scoring in the top 3% on the LSAT and preparing for law school, Justin shares the real behind-the-scenes process of building a career in public service.\n\nIn this episode, you’ll learn:\n • How to break into government and political careers\n • Why clubs, leadership positions, and campus involvement matter more than you think\n • The real value of networking and relationship-building\n • How internships can lead directly to career opportunities\n • Why customer service and communication skills are underrated\n • How to prepare for law school and the LSAT\n • Why patience and long-term planning can change your future\n\nJustin also shares how philosophy classes shaped the way he thinks, why volunteering matters, and how every opportunity—from clubs to internships—can open doors you never expected.\n\nIf you’re interested in law school, politics, advocacy, leadership, or making a difference through public service, this episode gives you a realistic roadmap for getting started.\n\nListen now and learn how to turn campus involvement into real career opportunities.",
+      "video_url": "https://www.youtube.com/watch?v=1mClq8Mkpk4",
+      "thumbnail_url": "https://i.ytimg.com/vi/1mClq8Mkpk4/maxresdefault.jpg",
+      "published_at": "2026-05-18T16:35:27Z",
+      "duration": "PT31M42S",
+      "channel_title": "CSUN CAREER CENTER",
+      "privacy_status": "unlisted",
+      "playlists": [
+        {
+          "playlist_id": "PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj",
+          "playlist_title": "Career Corner | Season One"
+        }
+      ],
+      "filter_match": "Career Corner",
+      "transcript_available": false,
+      "transcript_type": null,
+      "transcript_language": null,
+      "transcript_language_code": null,
+      "transcript": "",
+      "transcript_segments": [],
+      "transcript_error": "Unexpected transcript error: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=1mClq8Mkpk4! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+    },
     {
       "video_id": "XPh7g8epxZI",
       "title": "Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner",

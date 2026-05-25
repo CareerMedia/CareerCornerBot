@@ -4,19 +4,76 @@
 
 - **Source:** YouTube
 - **Title filter:** `Career Corner`
-- **Total videos:** 7
+- **Total videos:** 8
 
 ## Index
 
-1. [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
-2. [How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner](https://www.youtube.com/watch?v=qBfV9v5vosA)
-3. [How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner](https://www.youtube.com/watch?v=1LrQg1hvuvc)
-4. [How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner](https://www.youtube.com/watch?v=Ldfwza6RMms)
-5. [How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner](https://www.youtube.com/watch?v=4sM3mQExWVI)
-6. [How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner](https://www.youtube.com/watch?v=dDO3m2CeMgo)
-7. [The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner](https://www.youtube.com/watch?v=JOpIcmmkO-o)
+1. [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
+2. [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
+3. [How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner](https://www.youtube.com/watch?v=qBfV9v5vosA)
+4. [How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner](https://www.youtube.com/watch?v=1LrQg1hvuvc)
+5. [How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner](https://www.youtube.com/watch?v=Ldfwza6RMms)
+6. [How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner](https://www.youtube.com/watch?v=4sM3mQExWVI)
+7. [How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner](https://www.youtube.com/watch?v=dDO3m2CeMgo)
+8. [The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner](https://www.youtube.com/watch?v=JOpIcmmkO-o)
 
 ## Videos
+
+## [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
+
+![Thumbnail](https://i.ytimg.com/vi/1mClq8Mkpk4/maxresdefault.jpg)
+
+| Field | Value |
+| --- | --- |
+| Video ID | `1mClq8Mkpk4` |
+| Published | 2026-05-18 |
+| Duration | 31m 42s |
+| Channel | CSUN CAREER CENTER |
+| Privacy | unlisted |
+| Watch | [https://www.youtube.com/watch?v=1mClq8Mkpk4](https://www.youtube.com/watch?v=1mClq8Mkpk4) |
+
+**Playlists:**
+
+- [Career Corner | Season One](https://www.youtube.com/playlist?list=PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj)
+
+### Description
+
+Want to work in government, politics, public service, or law—but don’t know where to start?
+In this episode of Career Corner, we sit down with Justin Vines, a CSUN alum currently working as a federal caseworker for a member of Congress, to break down how involvement, networking, leadership, and patience helped shape his career journey.
+
+From serving in Associated Students and founding clubs on campus to scoring in the top 3% on the LSAT and preparing for law school, Justin shares the real behind-the-scenes process of building a career in public service.
+
+In this episode, you’ll learn:
+ • How to break into government and political careers
+ • Why clubs, leadership positions, and campus involvement matter more than you think
+ • The real value of networking and relationship-building
+ • How internships can lead directly to career opportunities
+ • Why customer service and communication skills are underrated
+ • How to prepare for law school and the LSAT
+ • Why patience and long-term planning can change your future
+
+Justin also shares how philosophy classes shaped the way he thinks, why volunteering matters, and how every opportunity—from clubs to internships—can open doors you never expected.
+
+If you’re interested in law school, politics, advocacy, leadership, or making a difference through public service, this episode gives you a realistic roadmap for getting started.
+
+Listen now and learn how to turn campus involvement into real career opportunities.
+
+### Transcript
+
+_Unexpected transcript error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1mClq8Mkpk4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
+
+---
 
 ## [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
 
