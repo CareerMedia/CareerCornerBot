@@ -4,20 +4,78 @@
 
 - **Source:** YouTube
 - **Title filter:** `Career Corner`
-- **Total videos:** 8
+- **Total videos:** 9
 
 ## Index
 
-1. [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
-2. [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
-3. [How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner](https://www.youtube.com/watch?v=qBfV9v5vosA)
-4. [How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner](https://www.youtube.com/watch?v=1LrQg1hvuvc)
-5. [How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner](https://www.youtube.com/watch?v=Ldfwza6RMms)
-6. [How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner](https://www.youtube.com/watch?v=4sM3mQExWVI)
-7. [How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner](https://www.youtube.com/watch?v=dDO3m2CeMgo)
-8. [The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner](https://www.youtube.com/watch?v=JOpIcmmkO-o)
+1. [How to Get Hired at Boeing | An Aerospace Engineer's Career Guide | Career Corner](https://www.youtube.com/watch?v=g4xBQd5lN-4)
+2. [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
+3. [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
+4. [How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner](https://www.youtube.com/watch?v=qBfV9v5vosA)
+5. [How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner](https://www.youtube.com/watch?v=1LrQg1hvuvc)
+6. [How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner](https://www.youtube.com/watch?v=Ldfwza6RMms)
+7. [How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner](https://www.youtube.com/watch?v=4sM3mQExWVI)
+8. [How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner](https://www.youtube.com/watch?v=dDO3m2CeMgo)
+9. [The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner](https://www.youtube.com/watch?v=JOpIcmmkO-o)
 
 ## Videos
+
+## [How to Get Hired at Boeing | An Aerospace Engineer's Career Guide | Career Corner](https://www.youtube.com/watch?v=g4xBQd5lN-4)
+
+![Thumbnail](https://i.ytimg.com/vi/g4xBQd5lN-4/maxresdefault.jpg)
+
+| Field | Value |
+| --- | --- |
+| Video ID | `g4xBQd5lN-4` |
+| Published | 2026-06-30 |
+| Duration | 37m 23s |
+| Channel | CSUN CAREER CENTER |
+| Privacy | unlisted |
+| Watch | [https://www.youtube.com/watch?v=g4xBQd5lN-4](https://www.youtube.com/watch?v=g4xBQd5lN-4) |
+
+**Playlists:**
+
+- [Career Corner | Season One](https://www.youtube.com/playlist?list=PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj)
+
+### Description
+
+Dream of working at Boeing? This episode is your roadmap.
+
+In this episode of Career Corner, host Maddie sits down with Alec Rahimian, an Aerospace Structures Stress Engineer at Boeing and CSUN alum, to explore what it really takes to launch a career in one of the world's most recognized aerospace companies. From earning degrees in mechanical engineering, transportation design, and manufacturing systems to working on the Boeing 787 Dreamliner, Alec shares the lessons, setbacks, and mindset that helped him turn a lifelong passion into a career.
+
+Whether you're studying engineering or simply curious about aerospace, this episode is packed with practical advice for students looking to stand out.
+
+In this episode, you'll learn:
+ • How to prepare for a career at Boeing
+ • What Boeing recruiters look for in engineering candidates
+ • Why hands-on projects matter more than GPA
+ • How internships and small companies can lead to big opportunities
+ • The importance of networking, mentorship, and perseverance
+ • What Aerospace Structures Stress Engineers actually do
+ • The mindset that helped Alec overcome setbacks and achieve his goals
+
+Alec also shares the books, engineering competitions, and professional organizations that shaped his career, plus a challenge for aspiring engineers to test their knowledge and creativity.
+
+If you've ever dreamed of designing aircraft or building a career at Boeing, this episode is packed with insights to help you take the next step.
+
+Listen now and start building your future in aerospace engineering.
+
+### Transcript
+
+_Unexpected transcript error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=g4xBQd5lN-4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
+
+---
 
 ## [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
 
