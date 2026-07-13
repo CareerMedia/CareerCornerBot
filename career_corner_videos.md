@@ -27,10 +27,10 @@
 | Field | Value |
 | --- | --- |
 | Video ID | `g4xBQd5lN-4` |
-| Published | 2026-06-30 |
+| Published | 2026-07-06 |
 | Duration | 37m 23s |
 | Channel | CSUN CAREER CENTER |
-| Privacy | unlisted |
+| Privacy | public |
 | Watch | [https://www.youtube.com/watch?v=g4xBQd5lN-4](https://www.youtube.com/watch?v=g4xBQd5lN-4) |
 
 **Playlists:**
@@ -41,7 +41,7 @@
 
 Dream of working at Boeing? This episode is your roadmap.
 
-In this episode of Career Corner, host Maddie sits down with Alec Rahimian, an Aerospace Structures Stress Engineer at Boeing and CSUN alum, to explore what it really takes to launch a career in one of the world's most recognized aerospace companies. From earning degrees in mechanical engineering, transportation design, and manufacturing systems to working on the Boeing 787 Dreamliner, Alec shares the lessons, setbacks, and mindset that helped him turn a lifelong passion into a career.
+In this episode of Career Corner, host Maddie sits down with Alec (Alborz) Rahimian, an Aerospace Structures Stress Engineer at Boeing and CSUN alum, to explore what it really takes to launch a career in one of the world's most recognized aerospace companies. From earning degrees in mechanical engineering, transportation design, and manufacturing systems to working on the Boeing 787 Dreamliner, Alec shares the lessons, setbacks, and mindset that helped him turn a lifelong passion into a career.
 
 Whether you're studying engineering or simply curious about aerospace, this episode is packed with practical advice for students looking to stand out.
 
@@ -59,6 +59,11 @@ Alec also shares the books, engineering competitions, and professional organizat
 If you've ever dreamed of designing aircraft or building a career at Boeing, this episode is packed with insights to help you take the next step.
 
 Listen now and start building your future in aerospace engineering.
+
+Enjoyed this episode? If you'd like to learn more about aerospace engineering or what it takes to build a career at Boeing, Alec has generously shared his contact information with the CSUN community. Don't be afraid to reach out, ask questions, and start building your professional network. One conversation could be the first step toward your future career.
+
+LinkedIn: https://www.linkedin.com/in/alecrahimian/
+Email: contact@alborzrahimian.com
 
 ### Transcript
 
