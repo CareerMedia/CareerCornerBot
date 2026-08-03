@@ -70,7 +70,13 @@ Email: contact@alborzrahimian.com
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=g4xBQd5lN-4! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dg4xBQd5lN-4&q=EgQUqWLVGP3NndMGIjDgarPAeVPQ0cl8-CBqBzkBXIo1GQftVuCIZdWqs3iurGTIbTSJZXlVB3KRwArLK48yAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
@@ -120,7 +126,13 @@ Listen now and learn how to turn campus involvement into real career opportuniti
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1mClq8Mkpk4! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D1mClq8Mkpk4&q=EgQUqWLVGP3NndMGIjDLkPB7Tvmxk_tfZvvfW9YJDV4aGtuxSh8LylaXTEa15LDG_tWUW90YVQ7gdyvq9QsyAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
@@ -171,7 +183,13 @@ Listen now and discover how you can make a difference beyond the classroom.
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=XPh7g8epxZI! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DXPh7g8epxZI&q=EgQUqWLVGP7NndMGIjAL8uXMmCrsB5KYVp7dujCEyIV32Dd631_OGnFh75VBjAfOc_9Oc5NFmQHlKSNPwy8yAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
@@ -223,7 +241,13 @@ Listen now and start building your path into the music industry.
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=qBfV9v5vosA! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DqBfV9v5vosA&q=EgQUqWLVGP_NndMGIjBqDii8NclMoQI3Iq9UgtX-myDrbUoshCpzokJSzwUk-GYnGS7cCvSulwOxubZ86T4yAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
@@ -274,7 +298,13 @@ If you’re interested in HR, recruiting, public service, or working in higher e
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1LrQg1hvuvc! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D1LrQg1hvuvc&q=EgQUqWLVGP_NndMGIjCd_9Mi-GmklQFvn2g62fEq3CCZbxE1IRzIUrVL3p-RDZbIblfx6hSdad3yZeGpqy8yAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
@@ -325,7 +355,13 @@ Listen now and take your first step into the entertainment & media industry.
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Ldfwza6RMms! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DLdfwza6RMms&q=EgQUqWLVGIDOndMGIjBMDz47mwuHYKc8qaaVeHNsQUURlizgIZWzplRppH7ocPpZNWlXx0kvIy6wXCkjIGkyAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
@@ -373,7 +409,13 @@ Listen now and start building your future in marketing & advertising.
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=4sM3mQExWVI! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D4sM3mQExWVI&q=EgQUqWLVGIHOndMGIjA1qP3_JrQ4vDR0qBfxmCUiSX7Coow10ucX7H4ixnZYQNesSlkbav1OTFPqgbxQXT0yAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
@@ -417,7 +459,13 @@ Listen now and start making connections that matter.
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=dDO3m2CeMgo! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DdDO3m2CeMgo&q=EgQUqWLVGIHOndMGIjDt6KLyQVhI-ElztiEh-XSS6lOHrOzLtZdKd0PaBxr8JkyrxcjoJiVLzez6YVMr580yAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
@@ -461,7 +509,13 @@ Tune in now and start building the future you want!
 _Unexpected transcript error: 
 Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JOpIcmmkO-o! This is most likely caused by:
 
-Request to YouTube failed: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DJOpIcmmkO-o&q=EgQUqWLVGILOndMGIjDmzxjy01FaaT2sIdTUq0Ss63wlWHhfv_mDo-bZ-Enp4wA4D4czhMK3HnA7WP1GzhcyAnJSWgFD
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
 
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
 
