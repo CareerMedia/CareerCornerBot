@@ -4,21 +4,79 @@
 
 - **Source:** YouTube
 - **Title filter:** `Career Corner`
-- **Total videos:** 9
+- **Total videos:** 10
 
 ## Index
 
-1. [How to Get Hired at Boeing | An Aerospace Engineer's Career Guide | Career Corner](https://www.youtube.com/watch?v=g4xBQd5lN-4)
-2. [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
-3. [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
-4. [How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner](https://www.youtube.com/watch?v=qBfV9v5vosA)
-5. [How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner](https://www.youtube.com/watch?v=1LrQg1hvuvc)
-6. [How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner](https://www.youtube.com/watch?v=Ldfwza6RMms)
-7. [How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner](https://www.youtube.com/watch?v=4sM3mQExWVI)
-8. [How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner](https://www.youtube.com/watch?v=dDO3m2CeMgo)
-9. [The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner](https://www.youtube.com/watch?v=JOpIcmmkO-o)
+1. [How to Build a Career at Disney | From Intern to Director | Career Corner](https://www.youtube.com/watch?v=FWC4bGiYwIw)
+2. [How to Get Hired at Boeing | An Aerospace Engineer's Career Guide | Career Corner](https://www.youtube.com/watch?v=g4xBQd5lN-4)
+3. [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
+4. [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
+5. [How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner](https://www.youtube.com/watch?v=qBfV9v5vosA)
+6. [How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner](https://www.youtube.com/watch?v=1LrQg1hvuvc)
+7. [How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner](https://www.youtube.com/watch?v=Ldfwza6RMms)
+8. [How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner](https://www.youtube.com/watch?v=4sM3mQExWVI)
+9. [How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner](https://www.youtube.com/watch?v=dDO3m2CeMgo)
+10. [The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner](https://www.youtube.com/watch?v=JOpIcmmkO-o)
 
 ## Videos
+
+## [How to Build a Career at Disney | From Intern to Director | Career Corner](https://www.youtube.com/watch?v=FWC4bGiYwIw)
+
+![Thumbnail](https://i.ytimg.com/vi/FWC4bGiYwIw/maxresdefault.jpg)
+
+| Field | Value |
+| --- | --- |
+| Video ID | `FWC4bGiYwIw` |
+| Published | 2026-09-08 |
+| Duration | 38m 38s |
+| Channel | CSUN CAREER CENTER |
+| Privacy | public |
+| Watch | [https://www.youtube.com/watch?v=FWC4bGiYwIw](https://www.youtube.com/watch?v=FWC4bGiYwIw) |
+
+**Playlists:**
+
+- [Career Corner | Season One](https://www.youtube.com/playlist?list=PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj)
+
+### Description
+
+In this episode of Career Corner, host Maddie sits down with Chris Garlington, Director of Enterprise Compliance Programs at The Walt Disney Company, CSUN professor, and proud Matador alum, to explore how he went from CSUN student and Disney intern to building a 12+ year career with the company.
+
+Chris brings a unique perspective to the conversation. He's experienced the career journey as a student trying to find his direction, an intern getting his first professional experience, a business and technology professional, a leader at Disney, and now a professor helping the next generation prepare for their careers.
+
+In this episode, you'll learn:
+• How to start preparing for your dream company before graduationWhy getting good grades isn't enough to stand out
+• How internships can help you discover what you actually want from your career
+• Why your classmates, professors, and alumni are already part of your professional network
+• How to make yourself memorable to recruiters with a strong 20–30 second introduction
+• Why communication and empathy are two of the most valuable skills you can develop
+• How to tailor your resume for competitive opportunities
+• Why your journey to Disney or any dream company, doesn't have to be a straight line
+
+One of Chris's biggest lessons? Don't wait until senior year to start thinking about your career. Academics matter, but building relationships, joining organizations, gaining experience, and developing your professional network should start much earlier.
+
+And if your dream is to work at Disney, Chris offers an important reality check: sometimes the best path isn't going directly from graduation into your dream company. Building experience elsewhere, exploring different environments, and strategically "zigging and zagging" can ultimately make you an even stronger candidate when the right opportunity arrives.
+
+Whether you're interested in business, technology, finance, compliance, risk management, or simply building a career at Disney, this episode is packed with advice you can start using today.
+
+Watch or listen now and start building the career that could take you from student to your dream company.
+
+### Transcript
+
+_Unexpected transcript error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=FWC4bGiYwIw! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
+
+---
 
 ## [How to Get Hired at Boeing | An Aerospace Engineer's Career Guide | Career Corner](https://www.youtube.com/watch?v=g4xBQd5lN-4)
 
