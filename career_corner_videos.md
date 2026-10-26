@@ -4,22 +4,75 @@
 
 - **Source:** YouTube
 - **Title filter:** `Career Corner`
-- **Total videos:** 10
+- **Total videos:** 11
 
 ## Index
 
-1. [How to Build a Career at Disney | From Intern to Director | Career Corner](https://www.youtube.com/watch?v=FWC4bGiYwIw)
-2. [How to Get Hired at Boeing | An Aerospace Engineer's Career Guide | Career Corner](https://www.youtube.com/watch?v=g4xBQd5lN-4)
-3. [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
-4. [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
-5. [How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner](https://www.youtube.com/watch?v=qBfV9v5vosA)
-6. [How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner](https://www.youtube.com/watch?v=1LrQg1hvuvc)
-7. [How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner](https://www.youtube.com/watch?v=Ldfwza6RMms)
-8. [How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner](https://www.youtube.com/watch?v=4sM3mQExWVI)
-9. [How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner](https://www.youtube.com/watch?v=dDO3m2CeMgo)
-10. [The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner](https://www.youtube.com/watch?v=JOpIcmmkO-o)
+1. [How to Get Hired by the U.S. Secret Service | Recruiter Insider | Career Corner](https://www.youtube.com/watch?v=eUfzBBJzcks)
+2. [How to Build a Career at Disney | From Intern to Director | Career Corner](https://www.youtube.com/watch?v=FWC4bGiYwIw)
+3. [How to Get Hired at Boeing | An Aerospace Engineer's Career Guide | Career Corner](https://www.youtube.com/watch?v=g4xBQd5lN-4)
+4. [How to Break Into Politics & Law School | From CSUN Student to Congress | Career Corner](https://www.youtube.com/watch?v=1mClq8Mkpk4)
+5. [Careers in Education (Beyond Teaching) | How to Get Hired & Make an Impact | Career Corner](https://www.youtube.com/watch?v=XPh7g8epxZI)
+6. [How to Break Into the Music Industry | From Intern to Def Jam Director | Career Corner](https://www.youtube.com/watch?v=qBfV9v5vosA)
+7. [How to Break Into Talent Acquisition & HR | Inside Higher Education Recruiting | Career Corner](https://www.youtube.com/watch?v=1LrQg1hvuvc)
+8. [How to Break Into Entertainment & Radio | Inside the World of Music Marketing | Career Corner](https://www.youtube.com/watch?v=Ldfwza6RMms)
+9. [How to Break Into Marketing & Advertising | A Director’s Guide to Getting Hired | Career Corner](https://www.youtube.com/watch?v=4sM3mQExWVI)
+10. [How CSUN Alumni Can Help You Succeed | Ask a Matador Explained | Career Corner](https://www.youtube.com/watch?v=dDO3m2CeMgo)
+11. [The Power of Networking & Internships | With Prof. Randi Picarelli | Career Corner](https://www.youtube.com/watch?v=JOpIcmmkO-o)
 
 ## Videos
+
+## [How to Get Hired by the U.S. Secret Service | Recruiter Insider | Career Corner](https://www.youtube.com/watch?v=eUfzBBJzcks)
+
+![Thumbnail](https://i.ytimg.com/vi/eUfzBBJzcks/maxresdefault.jpg)
+
+| Field | Value |
+| --- | --- |
+| Video ID | `eUfzBBJzcks` |
+| Published | 2026-10-21 |
+| Duration | 52m 20s |
+| Channel | CSUN CAREER CENTER |
+| Privacy | public |
+| Watch | [https://www.youtube.com/watch?v=eUfzBBJzcks](https://www.youtube.com/watch?v=eUfzBBJzcks) |
+
+**Playlists:**
+
+- [Career Corner | Season One](https://www.youtube.com/playlist?list=PLloTSYt_DRvgQBC0GX1cNRi48HpwQvwPj)
+
+### Description
+
+Ever wondered what it actually takes to get hired by the U.S. Secret Service?
+
+In this episode of Career Corner, host Maddie sits down with Robert Castillo, Human Resources Specialist and recruiter for the U.S. Secret Service, and Brodie Carroll, Assistant Special Agent in Charge and CSUN alum, to reveal what recruiters look for, how the hiring process works, and what a career with the Secret Service is really like.
+
+You’ll learn about:
+•How to become a competitive candidate
+• Secret Service internships and opportunities for college students
+• The STAR Program for eligible graduating seniors
+• What skills recruiters look for beyond your major
+• What life as a Special Agent can actually look like
+• Careers beyond protection, including cybersecurity, finance, engineering, intelligence, marketing, public affairs, and more
+
+Think you don't have the background to work for the Secret Service? Don't count yourself out. As Brodie says in this episode: “If you're afraid, do it afraid.”
+
+Watch now and discover what it takes to start your career with the U.S. Secret Service.
+
+### Transcript
+
+_Unexpected transcript error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=eUfzBBJzcks! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+There are two things you can do to work around this:
+1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
+
+---
 
 ## [How to Build a Career at Disney | From Intern to Director | Career Corner](https://www.youtube.com/watch?v=FWC4bGiYwIw)
 
